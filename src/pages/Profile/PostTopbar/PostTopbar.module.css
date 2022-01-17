@@ -1,0 +1,63 @@
+.postTopbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #fff;
+  border-top: 4px solid #e44d3a;
+  border-left: 1px solid #e4e4e4;
+  border-bottom: 1px solid #e4e4e4;
+  border-right: 1px solid #e4e4e4;
+  box-shadow: 0 0 1px rgb(0 0 0 / 24%);
+  margin-bottom: 20px;
+}
+
+.postTopbar__avatar {
+  margin: 0px 20px 0px 0px;
+}
+
+.postTopbar__photo {
+  border-radius: 100%;
+  width: 50px
+}
+
+.postTopbar__btn {
+  background-color: #e44d3a;
+  color: #fff;
+  font-size: 16px;
+  height: 40px;
+  padding: 0 15px;
+  line-height: 40px;
+  font-weight: 500;
+  padding: 0 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.postModal {
+  display: flex;
+  flex-direction: column;
+}
+
+.postModal__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: space-between;
+}
+
+.postModal__text {
+  margin-bottom: 20px;
+}
+
+.postModal__textarea {
+  width: 100%;
+  height: 100px;
+  font-size: 14px;
+}
+
+.postModal__btns {
+  display: flex;
+  justify-content: space-between;
+}
