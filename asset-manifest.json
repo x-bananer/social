@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/workwise/static/css/main.07dfa58b.chunk.css",
+    "main.js": "/workwise/static/js/main.73f57dd8.chunk.js",
+    "main.js.map": "/workwise/static/js/main.73f57dd8.chunk.js.map",
+    "runtime-main.js": "/workwise/static/js/runtime-main.a0504f4d.js",
+    "runtime-main.js.map": "/workwise/static/js/runtime-main.a0504f4d.js.map",
+    "static/js/2.89f3227c.chunk.js": "/workwise/static/js/2.89f3227c.chunk.js",
+    "static/js/2.89f3227c.chunk.js.map": "/workwise/static/js/2.89f3227c.chunk.js.map",
+    "static/js/3.5ef8307d.chunk.js": "/workwise/static/js/3.5ef8307d.chunk.js",
+    "static/js/3.5ef8307d.chunk.js.map": "/workwise/static/js/3.5ef8307d.chunk.js.map",
+    "index.html": "/workwise/index.html",
+    "static/css/main.07dfa58b.chunk.css.map": "/workwise/static/css/main.07dfa58b.chunk.css.map",
+    "static/js/2.89f3227c.chunk.js.LICENSE.txt": "/workwise/static/js/2.89f3227c.chunk.js.LICENSE.txt",
+    "static/media/menu.976b5194.png": "/workwise/static/media/menu.976b5194.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0504f4d.js",
+    "static/js/2.89f3227c.chunk.js",
+    "static/css/main.07dfa58b.chunk.css",
+    "static/js/main.73f57dd8.chunk.js"
+  ]
+}
